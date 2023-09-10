@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "plasticbrain/php-flash-messages": "^1.0"
+    }
+}
